@@ -78,8 +78,8 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👨‍💻 Authors
-- **Your Name** – Project Developer  
-- **Team Members (if any)**  
+- **Varun M C** – Project Developer  
+- **Sanath P V**  
 
 ---
 
