@@ -50,12 +50,18 @@ This model provides **valuable insights** for students, placement cells, and uni
 ## 📷 Project Snapshots
 | Model Training | Prediction Output | Visualization |
 |---------------|------------------|--------------|
-| ![Image](https://github.com/user-attachments/assets/f0466684-14de-4345-be68-a8d5a5c5510a) | ![Image](https://github.com/user-attachments/assets/c5bf8491-3435-49a5-b4ce-0b4287ee9c32) | ![Image](https://github.com/user-attachments/assets/6d1f49d1-65b9-4acc-8155-c82d7bbb7a07) |
-| ![Image](https://github.com/user-attachments/assets/1a5c4a74-fc38-47fb-84f3-ffa0b5efda6f) | ![Image](https://github.com/user-attachments/assets/a23f6022-b51f-48b9-8c90-0b5eb657160f) | |
+| 
 
----
+---<img width="908" height="883" alt="Screenshot 2025-03-24 211311" src="https://github.com/user-attachments/assets/3716984e-1dcc-4f4c-99d4-e9328cc5f61d" />
 
-## 🚀 Future Enhancements
+<img width="718" height="911" alt="Screenshot 2025-03-24 21212<img width="327" height="328" alt="Screenshot 2025-03-24 204809" src="https://github.com/user-attachments/assets/890931a5-9a97-4a7b-affb-fdb6ac5ff447" />
+8" src="https://github.com/user-attachments/assets/c3953871-8e5e-430d-a8f4-b84b43fe7608" />
+<img width="628" height="345" alt="Scr<img width="640" height="351" alt="Screenshot 2025-03-24 204755" src="https://github.com/user-attachments/assets/9755de2b-1f44-4a7d-8ce9-327e8e9c1f0a" />
+eenshot 2025-03-24 204740" src="https<img width="584" height="538" alt="Screenshot 2025-03-24 213033" src="https://github.com/user-attachments/assets/df7df6cb-4a32-4d51-915e-f02a18bc7633" />
+://github.com/user-attachments/assets/6414b378-f2b8-44e7-a787-f7dfaa0cc0b6" />
+
+## 🚀 Future Enhancements<img width="317" height="321" alt="Screenshot 2025-03-24 204821" src="https://github.com/user-attachments/assets/88ffcca7-0b3a-4365-b423-d54b05d4debb" />
+
 - Add **deep learning models** for better accuracy  
 - Deploy a **web-based dashboard** for real-time predictions  
 - Integrate **NLP-based resume analysis**  
