@@ -49,7 +49,7 @@ This model provides **valuable insights** for students, placement cells, and uni
 
 ## 📷 Project Snapshots  
 
-| Model Training | Prediction Output | Visualization |
+| User Input | Prediction Output | Visualization |
 |---------------|------------------|--------------|
 | <img width="300" src="https://github.com/user-attachments/assets/3716984e-1dcc-4f4c-99d4-e9328cc5f61d" /> | <img width="300" src="https://github.com/user-attachments/assets/c3953871-8e5e-430d-a8f4-b84b43fe7608" /> | <img width="300" src="https://github.com/user-attachments/assets/9755de2b-1f44-4a7d-8ce9-327e8e9c1f0a" /> |
 
